@@ -66,7 +66,9 @@ Procedurally generated mazes using various algorithms, with visual output for us
 
 ---
 
-![Vats Goyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsgoyal27&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vatsgoyal27&show_icons=true&theme=dark" alt="Vats Goyal's GitHub Stats" />
+</p>
 
 ---
 
