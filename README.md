@@ -66,18 +66,18 @@ Procedurally generated mazes using various algorithms, with visual output for us
 
 ---
 
-### 📊 GitHub Stats
-
 ![Vats Goyal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vatsgoyal27&show_icons=true&theme=dark)
 
 ---
-
-### 📫 Let's Connect
 
 <p align="center">
   <a href="https://github.com/vatsgoyal27">
     <img src="https://img.shields.io/badge/GitHub-vatsgoyal27-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/vatsal-goyal-144659309/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vatsal%20Goyal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
+
