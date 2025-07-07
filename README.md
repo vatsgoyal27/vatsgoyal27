@@ -69,7 +69,7 @@ Procedurally generated mazes using various algorithms, with visual output for us
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsgoyal27&layout=compact&theme=dark&langs_count=6&hide=html,css" />
 </p>
-
+ 
 ---
 
 <p align="center">
