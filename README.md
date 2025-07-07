@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/C-282C34?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS-Robot%20Operating%20System-black?style=for-the-badge&logo=ros&logoColor=white" />
+  <a href="https://wokwi.com/">
+    <img src="https://img.shields.io/badge/Made%20with-Wokwi-blue?logo=wokwi&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
