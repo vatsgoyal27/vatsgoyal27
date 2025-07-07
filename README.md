@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Vatsal Goyal</h1>
-<p align="center">A robotics enthusiast currently pursuing a B.E. (Hons.) in ECE at BITS Pilani, Pilani Campus, India 🇮🇳</p>
+<p align="center">A robotics enthusiast currently pursuing a B.E. in ECE at BITS Pilani, Pilani Campus, India 🇮🇳</p>
 <p align="center">I love building intelligent robots and games on hardware 🤖</p>
 
 <p align="center">
