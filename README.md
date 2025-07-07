@@ -5,16 +5,16 @@
 
 ### 🔧 Projects I’m Proud Of
 
-🚗 **[Micromouse Simulator](https://github.com/vatsgoyal27/micromouse-simulator)**  
+🚗 **[Micromouse Simulator](https://github.com/vatsgoyal27/micromouse-maze_sim_floodfill)**  
 A virtual maze-solving robot that simulates flood-fill and pathfinding strategies in C++ with interactive visualization.
 
 🎮 **[Arduino OLED Tetris](https://github.com/vatsgoyal27/arduino-oled-tetris)**  
 A memory-optimised Tetris game running on an Arduino with rotary encoder controls and an SSD1306 OLED screen. High scores are saved to EEPROM!
 
-🧠 **[Arduino Hand Tracking Robot](https://github.com/vatsgoyal27/arduino-hand-tracker)**  
+🧠 **[Arduino Hand Tracking Robot](https://github.com/vatsgoyal27/satin-bot)**  
 A gesture-controlled Arduino robot that tracks hand position using computer vision and translates it to real-world robot motion.
 
-🌀 **[Maze Generator](https://github.com/vatsgoyal27/maze-generator)**  
+🌀 **[Maze Generator](https://github.com/vatsgoyal27/python-maze-gen)**  
 Procedurally generated mazes using various algorithms, with visual output for use in robotics and games.
 
 ---
@@ -31,10 +31,12 @@ Procedurally generated mazes using various algorithms, with visual output for us
 ### 📌 Pinned Repos Preview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=micromouse-simulator&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=satin-bot&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=micromouse-maze_sim_floodfill&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=arduino-oled-tetris&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=arduino-hand-tracker&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=maze-generator&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=hDetector&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=maze-solvers&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=python-maze-gen&theme=dark" />
 </p>
 
 ---
@@ -43,7 +45,8 @@ Procedurally generated mazes using various algorithms, with visual output for us
 
 - Refining my Arduino-based games & robots 🛠️  
 - Learning ROS and UAV architecture 🛸  
-- Building my skills in DSA 💻  
+- Building my skills in DSA 💻
+- Working on mastering snake and tetris
 
 ---
 
