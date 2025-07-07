@@ -74,10 +74,10 @@ Procedurally generated mazes using various algorithms, with visual output for us
 
 ### 📫 Let's Connect
 
-- 🔗 [GitHub](https://github.com/vatsgoyal27)
-
----
-
-![snake gif](https://github.com/vatsgoyal27/vatsgoyal27/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://github.com/vatsgoyal27">
+    <img src="https://img.shields.io/badge/GitHub-vatsgoyal27-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
