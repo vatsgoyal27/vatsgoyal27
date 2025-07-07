@@ -42,7 +42,7 @@ Procedurally generated mazes using various algorithms, with visual output for us
 ---
 
 ### 📌 Pinned Repos Preview
-
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=satin-bot&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vatsgoyal27&repo=micromouse-maze_sim_floodfill&theme=dark" />
