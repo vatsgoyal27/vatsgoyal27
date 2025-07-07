@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/vatsgoyal27.png" width="80" height="80" style="border-radius: 50%;" />
+</p>
+
 <h1 align="center">Hi, I'm Vatsal Goyal</h1>
 <p align="center">A robotics enthusiast who loves building intelligent robots and games on hardware 🤖</p>
 
@@ -45,8 +49,8 @@ Procedurally generated mazes using various algorithms, with visual output for us
 
 - Refining my Arduino-based games & robots 🛠️  
 - Learning ROS and UAV architecture 🛸  
-- Building my skills in DSA 💻
-- Working on mastering snake and tetris
+- Building my skills in DSA 💻  
+- Working on mastering snake and tetris 🎮
 
 ---
 
@@ -59,12 +63,3 @@ Procedurally generated mazes using various algorithms, with visual output for us
 ### 📫 Let's Connect
 
 - 🔗 [GitHub](https://github.com/vatsgoyal27)
-
----
-
-<details>
-<summary>📷 Fun Pixel Avatar</summary>
-<p align="center">
-  <img src="https://github.com/vatsgoyal27.png" width="100" height="100" style="border-radius: 50%;" />
-</p>
-</details>
