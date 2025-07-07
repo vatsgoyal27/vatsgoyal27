@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vats Goyal</h1>
+<h1 align="center">Hi, I'm Vatsal Goyal</h1>
 <p align="center">A robotics enthusiast who loves building intelligent robots and games on hardware 🤖</p>
 
 ---
